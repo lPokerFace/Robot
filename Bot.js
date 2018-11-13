@@ -12,4 +12,4 @@ client.on('guildMemberAdd', member => {
   channel.send(`Bzzzzzzz Bi-en-venido, forma de vida no identificada de nombre ${member}, por favor, facilitanos tus datos principales para que podamos tramitar tu petición de acceso a un @Ingeniero. \n\n Les recordamos que en el interior de la base deben seguirse las normas de comportamiento de la comunidad (Hablar roleando), cualquier tipo de infracción de estas normas podría conllevar la expulsión permanente de la nave. Tengan una agradable estancia. Bzzzzzz *Sonidos de estática*`);
 });
 
-client.login("NTExOTkzMzQ2MTE4NjQ3ODA5.DszOtg.DO5YVYR7Xvw7oalRAzLryrls7NU");
+client.login("BOT_TOKEN");
